@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col items-center justify-center text-center px-4 md:px-8 bg-white dark:bg-gray-900 transition-colors"
+      className="min-h-screen flex flex-col items-center justify-center text-center px-4 md:px-8 bg-white dark:bg-gray-900 transition-colors pt-20"
     >
       <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 dark:text-white leading-tight">
         Hi, I’m <span className="text-blue-600 dark:text-blue-400">Adhi</span> 👋
